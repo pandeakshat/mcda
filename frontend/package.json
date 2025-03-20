@@ -3,13 +3,13 @@
   "version": "1.0.0",
   "description": "Multiple Criteria Decision Analysis - An Interactive Platform",
   "type": "module",
-  "homepage": " ",
+  "homepage": "https://github.com/pandeakshat/mcda.git",
   "repository": {
     "type": "git",
-    "url": " "
+    "url": "https://github.com/pandeakshat/mcda.git"
   },
   "bugs": {
-    "url": " "
+    "url": "https://github.com/pandeakshat/mcda.git/issues"
   },
   "sideEffects": false,
   "author": "pandeakshat",

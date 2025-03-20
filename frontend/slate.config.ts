@@ -5,7 +5,7 @@ import { defineConfig } from './src/helpers/config-helper';
 
 export default defineConfig({
   lang: 'en-US',
-  site: '',
+  site: 'https://github.com/pandeakshat/mcda.git',
   avatar: '/avatar.png',
   title: 'MCDA ',
   description: 'Multiple Criteria Decision Analysis - An Interactive Platform.',
